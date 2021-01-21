@@ -1,1 +1,2 @@
 # CleanCodeTenta
+Har bara refaktorerat.
